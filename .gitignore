@@ -1,0 +1,25 @@
+# Arduino / IDE build artifacts
+*.elf
+*.hex
+*.bin
+*.map
+*.d
+build/
+.vscode/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Arduino IDE
+*.bak
+
+# Python (if test scripts are added)
+__pycache__/
+*.pyc
+*.pyo
+.env
