@@ -121,8 +121,8 @@ No external libraries required — uses built-in `tone()` and `analogWrite()`.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<Bismaya-Guruprasad-Panda-8741>/stellar-ignition-system.git
-cd stellar-ignition-system
+git clone https://github.com/<Bismaya-Guruprasad-Panda-8741>/A-Web-Enabled-Dual-MCU-Secure-Remote-Ignition-Control-for-Model-Rocketry.git
+cd A-Web-Enabled-Dual-MCU-Secure-Remote-Ignition-Control-for-Model-Rocketry
 ```
 
 ### 2. Flash the ESP32
