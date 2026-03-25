@@ -289,7 +289,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 - Espressif Systems for the ESP32 platform
 - Arduino community for open-source tooling
-- DRIEMS University for project support
+- DRIEMS Polytechnic for project support
 
 ---
 
